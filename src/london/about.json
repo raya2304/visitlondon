@@ -1,0 +1,224 @@
+{
+  "hero": {
+    "badge": "WELCOME TO EXPLORE LONDON",
+    "title": "Discover London Your Way",
+    "description": "Explore London through one simple travel website. Discover famous landmarks, hidden corners, cultural experiences, food, shopping, nightlife and carefully planned travel ideas for your next adventure.",
+    "image": "https://images.openai.com/static-rsc-4/fq5j9drADphldRVk54mGUc0EOA1HbcGstPFmayUHZom_Ef152kUAeABcg3yAWdGdLLd4H3BNalSljvrIEHocZKXO03eiwPWnr0DtbTpWFsoGZAnK8AR_blD_uRWJAc_S1hxzxRam0iNlsJU1QnTfphFgVns71EmUwwwp_ru64vA?purpose=inline",
+    "primaryButton": "Explore Our Website",
+    "secondaryButton": "Discover London"
+  },
+
+  "website": {
+    "badge": "ABOUT EXPLORE LONDON",
+    "title": "More Than Just a London Travel Guide",
+    "paragraph1": "Explore London is a travel website designed to make discovering London easier, more organised and more enjoyable. Instead of searching through different websites for attractions, experiences and travel ideas, visitors can explore everything in one place.",
+    "paragraph2": "The website brings together London's famous landmarks, interesting places, travel packages, galleries and useful information in a clean and easy-to-use experience. Every section is designed to help visitors decide what they want to see, where they want to go and how they can make the most of their time in London.",
+    "paragraph3": "Whether you are visiting London for the first time, planning a short weekend or returning to discover something new, Explore London gives you inspiration to create a journey that matches your interests.",
+    "image": "https://images.unsplash.com/photo-1520986606214-8b456906c813?auto=format&fit=crop&w=1200&q=80",
+    "imageAlt": "London street with historic buildings",
+    "highlightTitle": "One City. Countless Stories.",
+    "highlightDescription": "Discover the landmarks, streets, culture and experiences that make London one of the world's most fascinating cities.",
+    "features": [
+      {
+        "icon": "🗺️",
+        "title": "Easy to Explore",
+        "description": "Find different London attractions and experiences through a simple and organised website."
+      },
+      {
+        "icon": "📸",
+        "title": "Visual Discovery",
+        "description": "Explore destinations through attractive images that help you decide where you want to go."
+      },
+      {
+        "icon": "📦",
+        "title": "Travel Packages",
+        "description": "Discover package ideas based on trip duration, group size, budget and experiences."
+      },
+      {
+        "icon": "💡",
+        "title": "Travel Inspiration",
+        "description": "Find new ideas for your London trip and discover places beyond the usual attractions."
+      }
+    ]
+  },
+
+  "whyWebsite": {
+    "badge": "WHY EXPLORE LONDON",
+    "title": "Why Use This Website?",
+    "description": "Planning a city trip can become confusing when information is spread across many different websites. Explore London brings useful travel ideas together so you can spend less time searching and more time exploring.",
+    "cards": [
+      {
+        "icon": "🔎",
+        "title": "Everything in One Place",
+        "description": "Discover sights, packages, galleries, destinations and travel ideas without jumping between multiple pages or websites."
+      },
+      {
+        "icon": "🎯",
+        "title": "Plan Around Your Interests",
+        "description": "Whether you love history, shopping, food, photography, culture or nightlife, you can find London experiences that match your interests."
+      },
+      {
+        "icon": "📱",
+        "title": "Simple User Experience",
+        "description": "The website is designed with clear navigation, attractive layouts and organised content so visitors can find information easily."
+      },
+      {
+        "icon": "🧳",
+        "title": "Useful for Different Trips",
+        "description": "Get inspiration whether you are planning a weekend break, family holiday, couple's trip or longer London adventure."
+      },
+      {
+        "icon": "🏙️",
+        "title": "Famous and Hidden Places",
+        "description": "Discover iconic London landmarks while also finding ideas for quieter streets, neighbourhoods and less obvious experiences."
+      },
+      {
+        "icon": "❤️",
+        "title": "Designed for Travellers",
+        "description": "Every section focuses on helping visitors discover London, make travel decisions and create memorable experiences."
+      }
+    ]
+  },
+
+  "london": {
+    "badge": "ABOUT LONDON",
+    "title": "A City Where History Meets Modern Life",
+    "paragraph1": "London is one of the world's most recognisable cities, known for its historic landmarks, royal connections, museums, theatres, diverse neighbourhoods and vibrant city life. The city brings together centuries of history and a constantly changing modern culture.",
+    "paragraph2": "From the River Thames and historic Westminster to colourful markets, peaceful parks and busy shopping streets, London offers a huge variety of places to explore. Every neighbourhood has its own character, food, architecture and stories.",
+    "paragraph3": "London is also a city for different kinds of travellers. History lovers can explore centuries-old buildings and museums, food lovers can experience cuisines from around the world, while shoppers, photographers, art lovers and nightlife enthusiasts can all find something to enjoy.",
+    "image": "https://images.unsplash.com/photo-1486299267070-83823f5448dd?auto=format&fit=crop&w=1200&q=80",
+    "imageAlt": "London skyline and Big Ben",
+    "badgeNumber": "1 City",
+    "badgeText": "Endless Places to Discover"
+  },
+
+  "highlights": {
+    "badge": "EXPLORE LONDON",
+    "title": "What Makes London Special?",
+    "description": "London's character comes from the combination of history, culture, architecture, entertainment and everyday city life.",
+    "cards": [
+      {
+        "icon": "🏛️",
+        "title": "Iconic Landmarks",
+        "description": "See famous places such as Big Ben, Tower Bridge, Buckingham Palace and Westminster.",
+        "image": "https://images.unsplash.com/photo-1529655683826-aba9b3e77383?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "icon": "🎨",
+        "title": "Art & Museums",
+        "description": "Discover museums, galleries, exhibitions and cultural spaces filled with art and history.",
+        "image": "https://images.unsplash.com/photo-1564399579883-451a5d44ec08?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "icon": "🍽️",
+        "title": "Food & Markets",
+        "description": "Experience traditional British food alongside an incredible variety of international cuisines.",
+        "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1000&q=80"
+      },
+      {
+        "icon": "🌳",
+        "title": "Parks & Gardens",
+        "description": "Take a break from the busy streets and enjoy London's parks, gardens and riverside spaces.",
+        "image": "https://images.unsplash.com/photo-1504218727796-db5223788e20?auto=format&fit=crop&w=1000&q=80"
+      }
+    ]
+  },
+
+  "explore": {
+    "badge": "PLAN YOUR EXPERIENCE",
+    "title": "What Can You Discover?",
+    "description": "Explore different sides of London and build your trip around the experiences that interest you most.",
+    "items": [
+      {
+        "icon": "🏰",
+        "title": "History",
+        "description": "Discover royal landmarks, historic streets, famous buildings and stories from London's past."
+      },
+      {
+        "icon": "🛍️",
+        "title": "Shopping",
+        "description": "Explore famous shopping streets, department stores, markets and independent boutiques."
+      },
+      {
+        "icon": "🎭",
+        "title": "Entertainment",
+        "description": "Experience theatres, live performances, music, events and London's lively evening atmosphere."
+      },
+      {
+        "icon": "📷",
+        "title": "Photography",
+        "description": "Find beautiful viewpoints, architecture, streets and landmarks perfect for capturing memories."
+      },
+      {
+        "icon": "☕",
+        "title": "Local Life",
+        "description": "Experience neighbourhood cafés, markets, streets and everyday moments that show another side of London."
+      },
+      {
+        "icon": "🌃",
+        "title": "Nightlife",
+        "description": "Discover restaurants, evening entertainment, music venues and vibrant areas after sunset."
+      },
+      {
+        "icon": "🚶",
+        "title": "City Walks",
+        "description": "Explore London on foot and discover the changing atmosphere from one neighbourhood to another."
+      },
+      {
+        "icon": "🌿",
+        "title": "Nature",
+        "description": "Enjoy green spaces, peaceful gardens and scenic places away from the busiest parts of the city."
+      }
+    ]
+  },
+
+  "experience": [
+    {
+      "tag": "DISCOVER",
+      "title": "See More Than the Famous Landmarks",
+      "description": "London is more than Big Ben and Tower Bridge. Walk through neighbourhoods, discover local markets, find peaceful parks and experience the everyday character of the city.",
+      "image": "https://images.unsplash.com/photo-1533929736458-ca588d08c8be?auto=format&fit=crop&w=1400&q=80"
+    },
+    {
+      "tag": "CREATE MEMORIES",
+      "title": "Make Your Own London Story",
+      "description": "Every traveller experiences London differently. Choose the places and experiences that interest you and create a journey that becomes your own story.",
+      "image": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?auto=format&fit=crop&w=1400&q=80"
+    }
+  ],
+
+  "values": {
+    "badge": "OUR APPROACH",
+    "title": "Built Around the Traveller",
+    "description": "Explore London focuses on making travel discovery simple, visual and enjoyable.",
+    "items": [
+      {
+        "icon": "🧭",
+        "title": "Explore",
+        "description": "Encourage curiosity by helping visitors discover different sides of London."
+      },
+      {
+        "icon": "📚",
+        "title": "Discover",
+        "description": "Bring together useful information about attractions, experiences and destinations."
+      },
+      {
+        "icon": "✨",
+        "title": "Experience",
+        "description": "Help visitors find experiences that match their personal travel interests."
+      },
+      {
+        "icon": "📸",
+        "title": "Remember",
+        "description": "Inspire travellers to create memorable moments throughout their London journey."
+      }
+    ]
+  },
+
+  "cta": {
+    "badge": "YOUR LONDON JOURNEY",
+    "title": "London Is Waiting to Be Explored",
+    "description": "Discover the city's landmarks, culture, food, streets and unforgettable experiences. Start planning your London adventure today.",
+    "button": "Explore Packages"
+  }
+}

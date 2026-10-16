@@ -1,0 +1,100 @@
+{
+  "hero": {
+    "badge": "GET IN TOUCH",
+    "title": "Contact Us",
+    "description": "Have a question about your London trip? Our travel team is here to help you plan your journey and make your London experience unforgettable.",
+    "image": "https://images.openai.com/static-rsc-4/f1Y7ZIMULKoYL5HzdBYxy2ZaqOPBBHCFo2RsOrYpfnQxs_i5vdRt7R6R4pKakp2-dhi7c0rBIExCodL37-G53FE2qe7X32Mi5tGo9_Uuic743FcKIvEi1TZP_JZ6UpcqhMgoUQ0lETMIYGnhTYLF8xSoPr1udke0iAMDHn8pZNM?purpose=inline",
+    "button": "Send a Message"
+  },
+
+  "contactInfo": [
+    {
+      "icon": "📧",
+      "title": "Email Us",
+      "value": "hello@visitlondon.com",
+      "description": "Send us your questions anytime."
+    },
+    {
+      "icon": "📞",
+      "title": "Call Us",
+      "value": "+44 20 7946 0958",
+      "description": "Monday to Friday, 9:00 AM – 6:00 PM"
+    },
+    {
+      "icon": "📍",
+      "title": "Visit Us",
+      "value": "London, United Kingdom",
+      "description": "Explore London and start your journey."
+    },
+    {
+      "icon": "🕐",
+      "title": "Opening Hours",
+      "value": "09:00 AM – 06:00 PM",
+      "description": "Monday – Friday"
+    }
+  ],
+
+  "helpCards": [
+    {
+      "icon": "🧳",
+      "title": "Trip Planning",
+      "description": "Need help deciding what to see and do during your London trip?"
+    },
+    {
+      "icon": "🗺️",
+      "title": "Places to Visit",
+      "description": "Ask us about London's attractions, landmarks and experiences."
+    },
+    {
+      "icon": "🎟️",
+      "title": "Experiences",
+      "description": "Looking for sightseeing, adventures or nightlife experiences?"
+    },
+    {
+      "icon": "📦",
+      "title": "Packages",
+      "description": "Have questions about our London travel packages?"
+    }
+  ],
+
+  "form": {
+    "title": "Send Us a Message",
+    "description": "Fill in the form below and we'll get back to you as soon as possible.",
+    "nameLabel": "Full Name",
+    "emailLabel": "Email Address",
+    "phoneLabel": "Phone Number",
+    "subjectLabel": "Subject",
+    "dateLabel": "Travel Date",
+    "messageLabel": "Your Message",
+    "button": "Send Message"
+  },
+
+  "faq": [
+    {
+      "question": "What can I find on Visit London?",
+      "answer": "You can discover London's famous sights, adventures, nightlife experiences, travel packages and other ideas for exploring the city."
+    },
+    {
+      "question": "Can I ask for help planning my London trip?",
+      "answer": "Yes. You can use the contact form to send us your questions about places, experiences and packages."
+    },
+    {
+      "question": "How can I contact Visit London?",
+      "answer": "You can contact us through the email address, phone number or contact form provided on this page."
+    },
+    {
+      "question": "Can I ask about London packages?",
+      "answer": "Yes. Send us your package-related question through the contact form and include as much information as possible."
+    },
+    {
+      "question": "How quickly will I receive a response?",
+      "answer": "We aim to respond to enquiries during our stated opening hours."
+    }
+  ],
+
+  "cta": {
+    "title": "Ready to Explore London?",
+    "description": "Have a question or need help planning your experience? We're here to help.",
+    "button": "Explore London"
+  }
+}

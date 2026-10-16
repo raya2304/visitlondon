@@ -1,0 +1,144 @@
+{
+
+    
+  "hero": {
+    "image": "/images/img10.jpg",
+    "tagline": "WELCOME TO LONDON",
+    "title": "Discover the Heart of London",
+    "description": "Explore iconic landmarks, royal palaces, world-famous attractions and unforgettable experiences in one of the world's greatest cities.",
+    "button": "Explore London"
+  },
+
+
+  "mustSee": [
+    {
+      "id": 1,
+      "image": "/images/img1.jpg",
+      "title": "Big Ben",
+      "description": "See London's famous clock tower."
+    },
+    {
+      "id": 2,
+      "image": "/images/img2.jpg",
+      "title": "Tower Bridge",
+      "description": "Walk across London's iconic Tower Bridge."
+    },
+    {
+      "id": 3,
+      "image": "/images/img3.jpg",
+      "title": "London Eye",
+      "description": "Enjoy amazing views across London."
+    },
+    {
+      "id": 4,
+      "image": "/images/img4.jpg",
+      "title": "Buckingham Palace",
+      "description": "Visit the famous royal residence."
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "image": "/images/img6.avif",
+      "title": "Landmarks",
+      "description": "Discover London's iconic landmarks and historic buildings."
+    },
+    {
+      "id": 2,
+      "image": "/images/img8.avif",
+      "title": "Culture",
+      "description": "Experience museums, galleries, theatres and London's rich culture."
+    },
+    {
+      "id": 3,
+      "image": "/images/img5.avif",
+      "title": "Food & Drink",
+      "description": "Taste delicious food and discover London's vibrant food scene."
+    },
+    {
+      "id": 4,
+      "image": "/images/img7.avif",
+      "title": "Shopping",
+      "description": "Explore famous shopping streets, markets and unique stores."
+    }
+  ],
+
+  "experiences": [
+    {
+      "id": 1,
+      "badge": "Special offer",
+      "title": "Hop-on Hop-off Bus Tour",
+      "description": "Explore London at your own pace with a convenient sightseeing bus tour.",
+      "image": "/images/img1.jpg"
+    },
+    {
+      "id": 2,
+      "badge": "",
+      "title": "The Lion King",
+      "description": "Experience the spectacular award-winning musical in London's West End.",
+      "image": "/images/img2.jpg"
+    },
+    {
+      "id": 3,
+      "badge": "An itinerary essential",
+      "title": "Buckingham Palace",
+      "description": "Explore the official London residence of King Charles III and admire the magnificent State Rooms.",
+      "image": "/images/img3.jpg"
+    },
+    {
+      "id": 4,
+      "badge": "Save an extra 15%",
+      "title": "The London Pass",
+      "description": "Discover London's top attractions with one convenient sightseeing pass.",
+      "image": "/images/img4.jpg"
+    }
+  ],
+"aboutLondon": [
+  {
+    "id": 1,
+    "image": "/images/img9.avif",
+    "tagline": "ABOUT LONDON",
+    "title": "Discover the Heart of London",
+    "description": "London is one of the world's most vibrant and diverse cities, where rich history meets modern life. From iconic landmarks such as Big Ben, Tower Bridge and Buckingham Palace to beautiful parks, museums and lively neighbourhoods, the city offers something for everyone. Visitors can enjoy world-class theatre, delicious food, exciting shopping and unforgettable experiences. The River Thames adds to the beauty of the city, while London's excellent transport system makes it easy to explore every corner. Whether you love history, culture, architecture, shopping or entertainment, London is a wonderful destination filled with unique experiences and memorable moments.",
+    "button": "Discover More"
+  }
+],
+
+"whyChooseUs": [
+  {
+    "id": 1,
+    "icon": "🗺️",
+    "title": "Expertly Planned Trips",
+    "description": "We help you plan your London adventure with carefully selected attractions, experiences and travel ideas."
+  },
+  {
+    "id": 2,
+    "icon": "🎟️",
+    "title": "Easy Booking",
+    "description": "Find and book London's popular attractions, tours and experiences easily from one place."
+  },
+  {
+    "id": 3,
+    "icon": "💷",
+    "title": "Great Value",
+    "description": "Discover memorable London experiences and useful travel options designed to give you great value."
+  },
+  {
+    "id": 4,
+    "icon": "❤️",
+    "title": "Memorable Experiences",
+    "description": "From famous landmarks to hidden gems, we help you discover experiences that make your London trip special."
+  }
+],
+"tripPackages": {
+  "image": "/images/img11.avif",
+  "tagline": "LONDON TRIP PACKAGES",
+  "title": "Your London Adventure Starts Here",
+  "description": "Explore the best of London with our carefully planned travel packages. Discover iconic landmarks, royal palaces, world-famous attractions, shopping streets and unforgettable experiences.",
+  "duration": "3 to 7 Days",
+  "price": "Starting from ₹24,999",
+  "highlight": "Sightseeing • Attractions • Experiences",
+  "button": "View Packages"
+}
+}

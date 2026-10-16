@@ -1,0 +1,125 @@
+{
+
+  "hero": {
+    "badge": "EXPLORE THE GALLERY",
+    "title": "See London Through Every Frame",
+    "description": "Explore a collection of beautiful London moments, from iconic landmarks and historic streets to stunning views, architecture and unforgettable city experiences.",
+    "image": "https://images.openai.com/static-rsc-4/utYwmITcterzQs16y06XckVUr1TsN_IAjm1AT4HdHfOA7TSgXHHWeofSp956dV_tbBcfsm1cheVoExWvjfRCCZJGNnS30XqtkXMH766Fz4O5I6PaVwxJrdowDBi5LrMnEOPDkpPRCNh7-F5KBBOo4bXZ1VDm6ealMTOM4iYriLg?purpose=inline"
+  },
+  "food": [
+    {
+      "id": 1,
+      "title": "Traditional Fish & Chips",
+      "description": "Enjoy one of London's most famous classic dishes with crispy fish and golden chips.",
+      "image": "/images/food1.avif"
+    },
+    {
+      "id": 2,
+      "title": "Afternoon Tea",
+      "description": "Experience the elegant British tradition of afternoon tea with cakes, sandwiches and tea.",
+      "image": "/images/food2.avif"
+    },
+    {
+      "id": 3,
+      "title": "London Street Food",
+      "description": "Discover delicious international flavours at London's colourful street food markets.",
+      "image": "/images/food3.avif"
+    },
+    {
+      "id": 4,
+      "title": "British Breakfast",
+      "description": "Start your London morning with a traditional full English breakfast.",
+      "image": "/images/food4.avif"
+    },
+    {
+      "id": 5,
+      "title": "London Desserts",
+      "description": "Treat yourself to delicious British pastries, puddings and sweet treats.",
+      "image": "/images/food5.avif"
+    },
+    {
+      "id": 6,
+      "title": "London Cafés",
+      "description": "Relax in charming cafés and enjoy coffee, pastries and beautiful city views.",
+      "image": "/images/food6.avif"
+    }
+  ],
+
+  "hotels": [
+    {
+      "id": 1,
+      "title": "Luxury London Hotels",
+      "description": "Stay in elegant hotels offering beautiful rooms, excellent service and unforgettable city views.",
+      "image": "/images/hotel1.png"
+    },
+    {
+      "id": 2,
+      "title": "Boutique Hotels",
+      "description": "Discover stylish boutique stays with unique interiors and a more personal experience.",
+      "image": "/images/hotel2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Hotels Near Central London",
+      "description": "Stay close to London's biggest attractions, shopping streets and entertainment districts.",
+      "image": "/images/hotel4.png"
+    },
+    {
+      "id": 4,
+      "title": "Riverside Hotels",
+      "description": "Wake up to beautiful views of the River Thames from your London hotel.",
+      "image": "/images/hotel5.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Family-Friendly Hotels",
+      "description": "Comfortable stays designed for families exploring London together.",
+      "image": "/images/hotel4.png"
+    },
+    {
+      "id": 6,
+      "title": "Budget-Friendly Stays",
+      "description": "Find comfortable accommodation while keeping more of your travel budget for exploring London.",
+      "image": "/images/hotel6.jpg"
+    }
+  ],
+
+  "shopping": [
+    {
+      "id": 1,
+      "title": "Oxford Street",
+      "description": "Explore one of London's most famous shopping streets with hundreds of stores and brands.",
+      "image": "/images/street1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Covent Garden",
+      "description": "Shop for fashion, beauty, gifts and unique products in this lively London destination.",
+      "image": "/images/street2.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Harrods",
+      "description": "Experience luxury shopping at one of London's most iconic department stores.",
+      "image": "/images/street3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Camden Market",
+      "description": "Discover vintage clothing, streetwear, handmade products, food and unique souvenirs.",
+      "image": "/images/street4.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Westfield London",
+      "description": "Enjoy a huge selection of fashion, dining and entertainment all under one roof.",
+      "image": "/images/street5.jpg"
+    },
+    {
+      "id": 6,
+      "title": "London Souvenirs",
+      "description": "Take home memorable gifts inspired by London's landmarks and culture.",
+      "image": "/images/street6.jpg"
+    }
+  ]
+}

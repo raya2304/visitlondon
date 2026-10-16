@@ -1,0 +1,393 @@
+{
+  "hero": {
+  "badge": "BOOK YOUR LONDON EXPERIENCE",
+  "title": "Book Tickets. Plan Your Journey.",
+  "description": "From flights and hotels to attraction tickets, restaurants and unforgettable experiences, plan everything you need for your London trip in one place.",
+  "image": "https://images.openai.com/static-rsc-4/isNAG8YsJcxQywDvB6ZbKsEXl_6l8z3MOSSsVqj1wyWd4DXA6mDC3cpdpje7fwR7PJ3J7k53GfnEejIKEECdtb6CYg0p59uQbkILg9rB1MutRlsyTYYY2dtjNjP-5q8jHCRyJpsm8oEHj2nHivKkwWVlSp1WLNbtJPhR5jhk5HLsDs4WzNQAMUqZCrdN3-vA?purpose=inline",
+  "button": "Start Booking"
+},
+
+  "flightSection": {
+    "smallTitle": "FLY TO LONDON",
+    "title": "Flights from Around the World",
+    "description": "Choose your departure city and start your journey to London with convenient flight options."
+  },
+
+  "flights": [
+    {
+      "id": 1,
+      "from": "Chennai",
+      "to": "London",
+      "airport": "Chennai International Airport → Heathrow",
+      "airline": "British Airways",
+      "duration": "10h 45m",
+      "stops": "Non-stop",
+      "class": "Economy",
+      "price": "£520",
+      "tag": "Popular"
+    },
+    {
+      "id": 2,
+      "from": "Mumbai",
+      "to": "London",
+      "airport": "Mumbai → Heathrow",
+      "airline": "Virgin Atlantic",
+      "duration": "9h 50m",
+      "stops": "Non-stop",
+      "class": "Economy",
+      "price": "£490",
+      "tag": "Best Value"
+    },
+    {
+      "id": 3,
+      "from": "Delhi",
+      "to": "London",
+      "airport": "Delhi → Heathrow",
+      "airline": "Air India",
+      "duration": "10h 05m",
+      "stops": "Non-stop",
+      "class": "Economy",
+      "price": "£475",
+      "tag": "Popular"
+    },
+    {
+      "id": 4,
+      "from": "Bengaluru",
+      "to": "London",
+      "airport": "Bengaluru → Heathrow",
+      "airline": "British Airways",
+      "duration": "10h 30m",
+      "stops": "Non-stop",
+      "class": "Economy",
+      "price": "£505",
+      "tag": "Comfort"
+    },
+    {
+      "id": 5,
+      "from": "Dubai",
+      "to": "London",
+      "airport": "Dubai → Heathrow",
+      "airline": "Emirates",
+      "duration": "7h 30m",
+      "stops": "Non-stop",
+      "class": "Economy",
+      "price": "£430",
+      "tag": "Best Value"
+    },
+    {
+      "id": 6,
+      "from": "Singapore",
+      "to": "London",
+      "airport": "Singapore → Heathrow",
+      "airline": "Singapore Airlines",
+      "duration": "14h 00m",
+      "stops": "Non-stop",
+      "class": "Economy",
+      "price": "£620",
+      "tag": "Premium"
+    }
+  ],
+
+  "hotelSection": {
+    "smallTitle": "STAY IN LONDON",
+    "title": "Find Your Perfect Stay",
+    "description": "From elegant boutique hotels to affordable family rooms, choose a stay that matches your London adventure."
+  },
+
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Royal London Hotel",
+      "location": "Central London",
+      "rating": "4.8",
+      "room": "Deluxe King Room",
+      "price": "£185",
+      "period": "per night",
+      "description": "A stylish stay close to London's most famous landmarks.",
+      "image": "https://images.openai.com/static-rsc-4/8Ul3mZiOh1uCk-kmgee0DVN7g2WiEHqPkJ1vPYHErPOX2v51uF78tg-5uWkNZpkHqs_cvdR-BkYxVjvh_A8WchgcpqXYxk7zb4g4hZ6R4WL5vLeYL4u-WkVn8aC8lvc4Xsu_VY_wzxtvx1adXLeaDVBlNiyjSnknir6Fvey9Qe4?purpose=inline"
+    },
+    {
+      "id": 2,
+      "name": "Thames Riverside Hotel",
+      "location": "South Bank",
+      "rating": "4.7",
+      "room": "River View Room",
+      "price": "£210",
+      "period": "per night",
+      "description": "Relax beside the Thames with beautiful city views.",
+      "image": "https://images.openai.com/static-rsc-4/gHLFwhYVG7hC1rIxOUKxmLGb1An95laVQmUOQuRhwO_MQCZT3QVvVtDaG-NoSLdABb-rLnsPKwOOGiDGAURwOjJtDwjU88pJTD2qUg4mGjBjWWTDQk61vb-QrAImGWT3VHSEue2kug3Np2YBWgO-QYLq3q07lIL_SO02dPa0DVc?purpose=inline"
+    },
+    {
+      "id": 3,
+      "name": "London Boutique House",
+      "location": "Covent Garden",
+      "rating": "4.6",
+      "room": "Classic Double Room",
+      "price": "£165",
+      "period": "per night",
+      "description": "A charming boutique stay surrounded by theatres and restaurants.",
+      "image": "https://images.openai.com/static-rsc-4/pIIcHOT7vpSbUqw9j9Bc8R1V8DR5CrmxtC_9hxIVBblpm-3bGHNbJqGso8vHJwwxGCuW0Pe4sK-ooJv1nHVnRU6h0_HzhVqsRVHwQIol_mW-yQbhPjDD_mCXz62ObrckXT4_PvJ9M609nxcJkIZ92zA5NGYYRLgIyJphsbEBW_E?purpose=inline"
+    },
+    {
+      "id": 4,
+      "name": "London Family Suites",
+      "location": "Paddington",
+      "rating": "4.5",
+      "room": "Family Suite",
+      "price": "£195",
+      "period": "per night",
+      "description": "Spacious rooms designed for comfortable family stays.",
+      "image": "https://images.openai.com/static-rsc-4/iX9HIgkWduWZAvKmDD0vK6THdYsbdMeu5iqjAEhLKlB0RVTFTAiA-jEmCZz9tOBaJpHJD5l0RnA40eu1m7SbLeAULMzpT_LcAhH_qIdotw7jkZdogaplsdSEuUD74XIGeevPXY0djr6gkr-tkjOk56xQ6R2_asP63FnS32sSxYc?purpose=inline"
+    },
+    {
+      "id": 5,
+      "name": "The Budget London Stay",
+      "location": "King's Cross",
+      "rating": "4.3",
+      "room": "Standard Double Room",
+      "price": "£95",
+      "period": "per night",
+      "description": "Comfortable accommodation for travellers exploring London on a budget.",
+      "image": "https://images.openai.com/static-rsc-4/VZaK8-LtayR2p3Bj0YEingz7JIpmwl5KoviG8G53-sWxIBScoGLeTs24iT1J2-07Os1vNyn-WfRQZJshb9nBPvUK6HJBUjtgplsVcx9f0bd4QEYlcxSLfNBmdsNo5p9kAKHLnEHSl1xQLFqHRxc21sfYZyQPEpJNV_1XC5sl-T0?purpose=inline"
+    },
+    {
+      "id": 6,
+      "name": "The Grand London",
+      "location": "Westminster",
+      "rating": "4.9",
+      "room": "Luxury Suite",
+      "price": "£320",
+      "period": "per night",
+      "description": "An elegant luxury stay close to Buckingham Palace and Westminster.",
+      "image": "https://images.openai.com/static-rsc-4/2ygazRMYUvlwWwUFiD11SabkuDjJuwshO57YxytlPoZWxlh3y5bFVocs3JxfMO-INH4niL0-sy9LIakkVJvGhnFDhyN3ZISu2fe7Vxw3xC_k4PMLf-m8pobzexddylyPRisVVQ3t3q_G37Lx43RTT4vnTMBaFfppkDBS793KP7w?purpose=inline"
+    }
+  ],
+
+  "theatreSection": {
+    "smallTitle": "LIGHTS • MUSIC • MAGIC",
+    "title": "Shows & Theatre",
+    "description": "Experience London's world-famous West End with unforgettable musicals, theatre productions and live performances."
+  },
+
+  "shows": [
+    {
+      "id": 1,
+      "title": "The Lion King",
+      "venue": "Lyceum Theatre",
+      "category": "Musical",
+      "duration": "2h 30m",
+      "price": "From £45",
+      "description": "Experience the spectacular music, costumes and storytelling of The Lion King.",
+      "image": "https://images.openai.com/static-rsc-4/o7K3ga5ZX8TdD8cEr43LLWbtLZQlDD8Ya8-t6mCvvVahT2CR2g4ozvq60BbIQ0TvDro_T-t4JnPRFGjyJJraLzMPN3bUmXwIOA0EDbOMWqeOLTZxJcSwa_y2Zh95yqyrfXRP5SJ-5YbEBsnOT2CjM2GqlTExDRydcd8PVqz_sPM?purpose=inline"
+    },
+    {
+      "id": 2,
+      "title": "Wicked",
+      "venue": "Apollo Victoria Theatre",
+      "category": "Musical",
+      "duration": "2h 45m",
+      "price": "From £40",
+      "description": "Discover the untold story of the witches of Oz in this spectacular West End musical.",
+      "image": "https://images.openai.com/static-rsc-4/RDL74Lk9pgemYlNeLX_iiwGI0nCCsm1cq9h_ILDN9gTdZ6zXqsffkB81te_QSUez9BnzA9wekdbfNixh94i04oLG41AdkglCEfsB_xtkEdp8V7oCtsyPpEfpb3y8wl18k8dEFETxrJeJm6QHMaCTjqZegHy8pQe0TN0hjrWzCVY?purpose=inline"
+    },
+    {
+      "id": 3,
+      "title": "Mamma Mia!",
+      "venue": "Novello Theatre",
+      "category": "Musical",
+      "duration": "2h 35m",
+      "price": "From £38",
+      "description": "Enjoy an energetic musical filled with friendship, family and unforgettable songs.",
+      "image": "https://images.openai.com/static-rsc-4/qTvdp2EJK3Jtm-kaIjZEZcc-mjxOtJQ6T2bscLX_MRLB6QIqRnbEfJMpYDRVVOCdALzOgpGgcNvdyPgM6jdMj48tbtxOjbN-3LIxeWnbUhmN-BRKXSkp4kBldWzEHAGGS6D7bJ0LucBxKq_yI5FR8z94MdU3HpZX-n1IWmKzmng?purpose=inline"
+    },
+    {
+      "id": 4,
+      "title": "Harry Potter and the Cursed Child",
+      "venue": "Palace Theatre",
+      "category": "Theatre",
+      "duration": "2 Parts",
+      "price": "From £50",
+      "description": "Enter the magical world of Harry Potter in this award-winning stage production.",
+      "image": "https://images.openai.com/static-rsc-4/dIMWnqdTkGP2d2iuD-4GjM4Ef4I35IHpUaB2EpswmAPfa1nOZfk_hag8c6h5D88EGpJGiJHHt2t8Q64lvuR0TbcNRRPhP5RMcW-c4gb1Wt76M7apisC6mAwX5TwCk9cuGyOCI26XoxFFZo9S1iolGfW6GMN8WRJ3XKz3DrwqGH8?purpose=inline"
+    }
+  ],
+
+  "experienceSection": {
+    "smallTitle": "ADVENTURE FOR EVERYONE",
+    "title": "Attractions & Experiences",
+    "description": "Discover iconic London attractions and exciting experiences for couples, families and adventure seekers."
+  },
+
+  "experiences": [
+    {
+      "id": 1,
+      "title": "London Eye",
+      "category": "Sightseeing",
+      "duration": "30 minutes",
+      "price": "From £30",
+      "description": "Enjoy spectacular panoramic views of London's skyline from above the River Thames.",
+      "image": "https://images.openai.com/static-rsc-4/ASSx6ZG8L0zk2AAI7e9XIsHwDZDjATTCkvIGZFIgcUeAn-iwglzOhuUCRa4ISBZAIbHk2bm-4emUlBt1j2lx-F9PY5mm0mr0EeR9NjB4mD7fXqRN6FDxA5qnA4rAPaSIdLsadMvAhucSRt3C3ZNJh6xX876S8C4riG91nd5DKHg?purpose=inline"
+    },
+    {
+      "id": 2,
+      "title": "Warner Bros. Studio Tour",
+      "category": "Family Experience",
+      "duration": "3–4 hours",
+      "price": "From £55",
+      "description": "Step into the magical world of Harry Potter and explore the original film sets.",
+      "image": "https://images.openai.com/static-rsc-4/7l4X1efllAIYhL8CpuaNuuJvEO30iJ3euukuvw7auSP3tjjINr3CdaSzdRMMbGq0KhTvAKz0zWuRCjLQJCnaOmrVsA9NGOsZnDpYrjuG7cU0WGdLkYk2-K0odtkoseUmN6o8vTqPRJsuzKNjSe92UyMzt1ht_a05ihrEsXlRnW4?purpose=inline"
+    },
+    {
+      "id": 3,
+      "title": "SEA LIFE London",
+      "category": "Family",
+      "duration": "2 hours",
+      "price": "From £28",
+      "description": "Discover fascinating marine life and explore amazing underwater worlds.",
+      "image": "https://images.openai.com/static-rsc-4/iU8Iaeu026BCL2-1WV-KFwVMuIYfRSZT0cToUyaNisCvr1JHHJqCofqbOjwyBAxsKYUfExxhWSt1qiErU3fcqXA0p-uNTHDmBq4oLt2FXMqkj6MlmWfMrY0qEnp6hP_bp-F4_-ybk5psf521h4TeJgyYLYxk_DVV1zY4-ueX1MkopejChzAtgxDL9NAgp554?purpose=fullsize"
+    },
+    {
+      "id": 4,
+      "title": "Madame Tussauds",
+      "category": "Entertainment",
+      "duration": "2–3 hours",
+      "price": "From £35",
+      "description": "Meet incredibly realistic wax figures of celebrities, royals and famous personalities.",
+      "image": "https://images.openai.com/static-rsc-4/9-BWUJqQKCWL7eyJ9q8cQCeAnMizMIgVnRyZhgqbWL8kpawONAsLFDjGS5T6VWdPq8xvMECLmIQZZptoUS1FTWnmtIPBWGNouC05sLHchMq18j-VyrEn7DZ4frS4Ys75cFLqKqWXzrM4wfZE-hPGhtnJijrpyJAmSesvsxIKX-0?purpose=inline"
+    },
+    {
+      "id": 5,
+      "title": "London Zoo",
+      "category": "Family",
+      "duration": "3 hours",
+      "price": "From £30",
+      "description": "Spend a fun-filled day discovering fascinating animals in the heart of London.",
+      "image": "https://images.openai.com/static-rsc-4/RHoYQjr3V69EuLCRPi-pgmZCvyTav_TicWnj_xvZH_glM6-JGaNEb7DPJfaxpNNF9hW-DeDYklwI35MtOVdt28z0Mk_maXL-FMAkObGvnVBmtVT7pWROw8WUGGHmwHtl4DKGKaO9cjpWwTHo1psEP4a2Zw37H9wkSIG-kZm305keSjNYwHHOECuvOXK_e53B?purpose=fullsize"
+    },
+    {
+      "id": 6,
+      "title": "Disneyland Paris",
+      "category": "Day Trip",
+      "duration": "Full Day",
+      "price": "From £120",
+      "description": "Add a magical day trip from London to Disneyland Paris for an unforgettable family adventure.",
+      "image": "https://images.openai.com/static-rsc-4/mJBux0fDr-lLLQaZ4otkcvVSXy5EUd4A_CGVrWkOR2n7tB6jCO8F3DpUii_07et9v-MUkwQVo2d_QM4F91xqu7spz1TWw-K40kRo05QBQOgKCxUkzM5Hsq6m4tYPXXcRZkMSwWGkASbgTiU2TYbI_wongqHMYythXAAtAUt_IxM?purpose=inline"
+    }
+  ],
+
+  "attractionSection": {
+    "smallTitle": "DISCOVER THE CITY",
+    "title": "London's Iconic Attractions",
+    "description": "Book tickets to some of the city's most famous landmarks and historic destinations."
+  },
+
+  "attractions": [
+    {
+      "id": 1,
+      "title": "Tower of London",
+      "category": "History",
+      "price": "From £35",
+      "description": "Explore one of London's most fascinating historic landmarks and discover the Crown Jewels.",
+      "image": "https://images.openai.com/static-rsc-4/VfxoECu18bitZ1ht7sYaQTMBwyPn4LJs7sa9tNQZmthoegwg7Gp599iSEzzsbhQf5BzC1bdHFf-RNFyt5k3FU_ycLvgGGmyYXDRr2mfogiwmybyPmyxIc-QMdc1MhXVFu3RAXELLogp5bmTjXCQxblA70diN5oSUILrYVZP_ack?purpose=inline"
+    },
+    {
+      "id": 2,
+      "title": "Buckingham Palace",
+      "category": "Royal London",
+      "price": "From £32",
+      "description": "Discover the magnificent home of the British monarch and experience royal history.",
+      "image": "https://images.openai.com/static-rsc-4/_RoE5l2hUJhoZ1byrN7efvck8E_IIhzuYs8f6A6EUPNC_HXP4nUgvl15V38eINPCzhvGxYhsjpj6-HHsRnjrvoaxzrY91s72jwSI5vVnMaNEt4QjZidg5Cgbu9ONQiIIVT3aa5owayFGDVUTRXowt_7BcaIZK8DKUe6NcDlPgfc?purpose=inline"
+    },
+    {
+      "id": 3,
+      "title": "Westminster Abbey",
+      "category": "Historic Landmark",
+      "price": "From £29",
+      "description": "Visit one of Britain's most important historic churches in the heart of Westminster.",
+      "image": "https://images.openai.com/static-rsc-4/m2hJfkxXIKUK7YkpdTSl9MlWIougxRocOfuEVScFVBymLqmk2O9ASYEUGuW5mcRVKDa8tKR6Vl-5vpd8LXMcZ7sy_0nBYJQ-daiPQsBlNr-Tgv5o5B2E4G86SwC5lW6QzirvvOhBuTtL9ISp7LAUN3zLeOvGbye9_aozYRTomGY?purpose=inline"
+    },
+    {
+      "id": 4,
+      "title": "Tower Bridge",
+      "category": "Landmark",
+      "price": "From £15",
+      "description": "Walk across one of London's most recognizable bridges and enjoy spectacular city views.",
+      "image": "https://images.openai.com/static-rsc-4/_THv_75ThTP86kg8b8GI_HCWddSbc37ujlwXUMKQozZWQycFPTE_ocz5bERmhoiryPvzeqRs0d0X3eI1dpi-76NMDAZyxwg9XcXS5p-l9ajayb8_4DdJZvBTAhCfkZU9cpBUEIE8yR7U2glueYwtRZAMGOBPO1P5fakgUOsbx0FbuV52ll90qfiP1r-A7FEd?purpose=inline"
+    }
+  ],
+
+  "dayTripSection": {
+    "smallTitle": "BEYOND LONDON",
+    "title": "Day Trips from London",
+    "description": "Extend your adventure with unforgettable day trips to historic cities, castles and iconic British landmarks."
+  },
+
+  "dayTrips": [
+    {
+      "id": 1,
+      "title": "Windsor Castle",
+      "location": "Windsor",
+      "duration": "Full Day",
+      "price": "From £65",
+      "description": "Visit one of the world's oldest and most famous occupied castles.",
+      "image": "https://images.openai.com/static-rsc-4/Ifsiln4XiqBQkAdHJbojVuhwXwaKenuFbQf_FJ0L9C79Tr4HEbIuI74tNmfGnThLwMftV9PbElK4Y1ULkCImgRdi930JFrOcuVPi0Rx9PVbYy3eLbYNQbmeW2HzDmbOITsIwuBAyOnX8H1C86ibn1JyhC0k5_oML8yhSe1dn7H0?purpose=inline"
+    },
+    {
+      "id": 2,
+      "title": "Oxford",
+      "location": "Oxfordshire",
+      "duration": "Full Day",
+      "price": "From £70",
+      "description": "Explore the historic university city filled with beautiful architecture and fascinating history.",
+      "image": "https://images.openai.com/static-rsc-4/KIc-ErCsUBhQ5OZ_ERYtaQeLVcTzNn8Kg1-D6ro6CZ-q3QrugVgXM-BwVET_0hE2V2_wehhAlpW4Yyti8lIbnzkpBRYwHTHo3L6XuFLlznR6OThr-sV5Prg4S7e8hB-FQrGCCONeWT2BTrcLVbWeIp25wEHKaVc-agGJbKxDHbM?purpose=inline"
+    },
+    {
+      "id": 3,
+      "title": "Stonehenge",
+      "location": "Wiltshire",
+      "duration": "Full Day",
+      "price": "From £75",
+      "description": "Discover one of Britain's most mysterious prehistoric monuments.",
+      "image": "https://images.openai.com/static-rsc-4/7XCjwU1PLmxh5tdzjtGR5T_Wd5KKwXGfhoR7cjS7uFJDc4M1INnE6Wn0SGmVF5yXgaTgrHGYvQyjC7mq24Aq8SCmFT_ob6BW8WAbeqgTgSPyJcZ5XyQWPR5hAi68IHOLgxAzZsdfD-aKzTj94fqoK43VUR-wtYNeBQfnFMSbfqb5AIJdCcq1Mr0NfaFQLo7p?purpose=inline"
+    },
+    {
+      "id": 4,
+      "title": "Bath",
+      "location": "Somerset",
+      "duration": "Full Day",
+      "price": "From £85",
+      "description": "Explore Roman history, beautiful Georgian architecture and the famous Roman Baths.",
+      "image": "https://images.openai.com/static-rsc-4/rl5YhasXZdz04N1a5QEL1_EHHArQC31JtELWHN9G9nSUee5tQgE14lCYJf2hgxtOo2vDNVI38jQUksHsq5MMIFdiyEk8Zbe__3EzzPrYphHbnOvussBnQcgV0Gcj90aSGpoCwTck1PsSALFVvhySQvY-WYw7ZzDlobM5iheyWfs?purpose=inline"
+    }
+  ],
+
+  "benefits": [
+    {
+      "number": "01",
+      "title": "Easy Booking",
+      "description": "Find flights, accommodation and experiences in one simple place."
+    },
+    {
+      "number": "02",
+      "title": "Flexible Choices",
+      "description": "Choose from different travel styles, accommodation options and experiences."
+    },
+    {
+      "number": "03",
+      "title": "Family Friendly",
+      "description": "Discover activities and attractions suitable for travellers of all ages."
+    },
+    {
+      "number": "04",
+      "title": "Complete London Planning",
+      "description": "Plan your entire London adventure from arrival to departure."
+    }
+  ],
+
+  "cta": {
+    "smallTitle": "YOUR LONDON ADVENTURE AWAITS",
+    "title": "Ready to Explore London?",
+    "description": "Book your flight, choose your hotel, reserve your favourite show and discover unforgettable London experiences.",
+    "button": "Start Booking"
+  }
+}

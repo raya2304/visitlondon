@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "badge": "DISCOVER LONDON",
+    "title": "Explore London's Best Sights",
+    "description": "Discover London's iconic Tower Bridge and enjoy stunning views of the River Thames, historic architecture, and the vibrant city skyline.",
+    "image": "https://images.openai.com/static-rsc-4/N-p23LJh5mjlFmRyPiUUN6JtSA7rcFAjNlxH64mPw4hRAt614qqLnOQI9JMvRISAACCvy3tDWSszOfvbZTiLSH16-L-nORzkuw0Kfl-bztvOIc6ccrjta8oKH_Gy-ov9qnw7JQbtXNAyCBek7qeZVVswg8-0UtwnVplh1eSAOow?purpose=inline"
+  },
+  "sights": [
+    {
+      "id": 1,
+      "name": "Tower of London",
+      "image": "/images/tower.avif",
+      "description": "Explore one of London's most historic landmarks, famous for its medieval architecture, royal history and the Crown Jewels.",
+      "bestTime": "9:00 AM – 11:00 AM",
+      "tip": "Visit early in the morning to enjoy the attraction before it gets busy."
+    },
+    {
+      "id": 2,
+      "name": "Buckingham Palace",
+      "image": "/images/palace.jpg",
+      "description": "Visit the iconic royal residence and admire its grand architecture. You can also experience the famous Changing of the Guard ceremony.",
+      "bestTime": "10:00 AM – 12:00 PM",
+      "tip": "Check the Changing of the Guard schedule before your visit."
+    },
+    {
+      "id": 3,
+      "name": "London Eye",
+      "image": "/images/eye.avif",
+      "description": "Enjoy spectacular panoramic views of London's skyline, the River Thames and famous landmarks.",
+      "bestTime": "4:00 PM – Sunset",
+      "tip": "Sunset is a great time for beautiful city views and photographs."
+    },
+    {
+      "id": 4,
+      "name": "Westminster Abbey",
+      "image": "https://images.openai.com/static-rsc-4/dIPKTZxLy3nRtaDStIiejY1tgFOLDmHZap7Na3VenDnnsk4w7wnWKv9mY02leZbIMbY-J2FfdZv-SJDbB3-bNz51b1S7E1SBnqa1Z84wd6hdrkXdiKndzzRMEMiarlx12kCBpdpEKqQx6_aRJLkUio6T3rFus1p7qGBBx28l4dL7JbSihm_trfYzE3hMDgjn?purpose=fullsize",
+      "description": "Discover Westminster Abbey, a historic Gothic landmark and explore its magnificent architecture, royal heritage, and timeless beauty.",
+      "bestTime": "9:30 AM – 1:00 PM",
+      "tip": "Visit Westminster Abbey in the morning, then explore Big Ben, the Houses of Parliament, and St. James’s Park on a scenic walking trip."
+    },
+    {
+      "id": 5,
+      "name": "Big Ben",
+      "image": "/images/big pen.avif",
+      "description": "See the world-famous Big Ben and the Houses of Parliament in Westminster.",
+      "bestTime": "Early Morning or Evening",
+      "tip": "Evening visits give you a chance to see the landmark beautifully illuminated."
+    }
+  ],
+  "adventures": [
+    {
+      "id": 1,
+      "title": "Up at The O2",
+      "image": "/images/o2.jpg",
+      "price": "From £37",
+      "location": "North Greenwich",
+      "description": "Climb across the famous roof of The O2 and experience London from a completely different perspective.",
+      "bestTime": "Sunset",
+      "duration": "90 minutes"
+    },
+    {
+      "id": 2,
+      "title": "Thames Speedboat Adventure",
+      "image": "/images/thames.jpg",
+      "price": "From £59.95",
+      "location": "River Thames",
+      "description": "Experience London from the water on a thrilling high-speed boat adventure.",
+      "bestTime": "Late Afternoon",
+      "duration": "60 minutes"
+    },
+    {
+      "id": 3,
+      "title": "White Water Rafting",
+      "image": "/images/white.jpg",
+      "price": "From £58",
+      "location": "Lee Valley",
+      "description": "Take on the exciting rapids at Lee Valley White Water Centre.",
+      "bestTime": "Morning",
+      "duration": "Session based"
+    }
+  ],
+  "nightlife": [
+    {
+      "id": 1,
+      "title": "West End After Dark",
+      "image": "/images/west.jpg",
+      "location": "West End",
+      "time": "7:00 PM – Late",
+      "description": "Experience London's famous West End after sunset with dazzling theatre lights, live performances and lively streets.",
+      "highlight": "Theatre & Entertainment"
+    },
+    {
+      "id": 2,
+      "title": "Thames by Night",
+      "image": "/images/thamesnight.jpg",
+      "location": "River Thames",
+      "time": "8:00 PM – 11:00 PM",
+      "description": "See London's skyline illuminated at night while enjoying a relaxing evening beside the River Thames.",
+      "highlight": "Night Views"
+    },
+    {
+      "id": 3,
+      "title": "Soho Evening",
+      "image": "/images/soho.jpg",
+      "location": "Soho",
+      "time": "6:00 PM – Late",
+      "description": "Explore one of London's liveliest neighbourhoods, filled with restaurants, music venues and late-night entertainment.",
+      "highlight": "Food & Music"
+    },
+    {
+      "id": 4,
+      "title": "London Rooftop Evening",
+      "image": "/images/night4.jpg",
+      "location": "Central London",
+      "time": "6:30 PM – Late",
+      "description": "Relax above the city with spectacular nighttime views and a stylish evening atmosphere.",
+      "highlight": "City Views"
+    }
+  ]
+}
